@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y Github.
 * El verdadero amor por las buenas practicas.
 * Creado por Marcelo
 * incluye ejemplo en mac y linux 
+* disponible para todas las edades
 
 Y como un amable recordario: **Este readme.me es un chiste**. Diseñado para el ejemplo.
